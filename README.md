@@ -20,13 +20,13 @@ Spring Boot 기반의 RESTful API로 구성되어 있으며, JWT 토큰 인증 �
 
 | 분류 | 기술 |
 |------|------|
-| Language | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| Framework | Spring Boot 3.5.6 |
-| ORM | Spring Data JPA (Hibernate) |
-| Security | Spring Security + JWT (jjwt 0.11.5) |
-| Database | PostgreSQL |
-| Build Tool | Gradle |
-| Etc | Lombok, Spring Validation, DevTools |
+| Language | Java 17 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| Framework | Spring Boot 3.5.6 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| ORM | Spring Data JPA (Hibernate) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|
+| Security | Spring Security + JWT (jjwt 0.11.5) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|
+| Database | PostgreSQL ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)|
+| Build Tool | Gradle 	![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)|
+| Etc | Lombok, Spring Validation, DevTools ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)|
 
 ---
 
