@@ -20,7 +20,7 @@ Spring Boot 기반의 RESTful API로 구성되어 있으며, JWT 토큰 인증 �
 
 | 분류 | 기술 |
 |------|------|
-| Language | Java 17 |
+| Language | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | Framework | Spring Boot 3.5.6 |
 | ORM | Spring Data JPA (Hibernate) |
 | Security | Spring Security + JWT (jjwt 0.11.5) |
